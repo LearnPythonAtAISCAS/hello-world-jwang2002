@@ -1,4 +1,4 @@
-### Copyright Fabian Blank
+### Copyright Junbo Wang
 
 ### This shows you how to use python command line output
 ### In this file you will need to print out 'Hello World!'
@@ -6,6 +6,9 @@
 ### You will be able to use test_helloWorld.py to test your result
 
 def hello():
-    #Write your code here
-    
+    print("Hello World!")
+    #Write your code here _ your code
+
 hello()
+
+print("Test")
